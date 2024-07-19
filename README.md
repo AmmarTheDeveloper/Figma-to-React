@@ -3,6 +3,9 @@
 ### Installation
 
 1. Clone The Reposiratory
+```
+    git clone https://github.com/AmmarTheDeveloper/Figma-to-React.git
+```
 2. Build Command
 
 ```
